@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/p0/Mj/MD5E-s550019--ad1001066a25f358058ed478b966a11e.H/MD5E-s550019--ad1001066a25f358058ed478b966a11e.H
+/annex/objects/MD5E-s550019--ad1001066a25f358058ed478b966a11e.H

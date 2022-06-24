@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/vW/FM/MD5E-s504299--af23e9236d79a5c46c57d5c247701d55.H/MD5E-s504299--af23e9236d79a5c46c57d5c247701d55.H
+/annex/objects/MD5E-s504299--af23e9236d79a5c46c57d5c247701d55.H
