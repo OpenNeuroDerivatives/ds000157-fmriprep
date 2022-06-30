@@ -1,1 +1,1 @@
-/annex/objects/MD5E-s7063--274ca1024169d4844c32e63c3c83ab56.cmd
+../../../../.git/annex/objects/XK/73/MD5E-s7063--274ca1024169d4844c32e63c3c83ab56.cmd/MD5E-s7063--274ca1024169d4844c32e63c3c83ab56.cmd
