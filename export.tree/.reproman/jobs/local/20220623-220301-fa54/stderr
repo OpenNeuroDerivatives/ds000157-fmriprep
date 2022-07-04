@@ -1,0 +1,13 @@
+Warning: Permanently added 'c172-021' (ED25519) to the list of known hosts.
+WARNING (06/24/22 03:25:23): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4528893.hostlist.bbUQMCww to get hosts
+starting job on c172-021
+starting job on c175-031
+starting job on c179-001
+starting job on c187-114
+starting job on c187-164
+starting job on c190-032
+starting job on c190-092
+starting job on c191-151
+slurmstepd: error: *** JOB 4528893 ON c172-021 CANCELLED AT 2022-06-25T14:04:09 ***
+Terminated
